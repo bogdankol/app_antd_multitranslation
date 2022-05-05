@@ -1,0 +1,27 @@
+
+.link {
+    display: inline-block;
+    padding: 10px 0 0 0;
+    font-weight: 700;
+    color: #4F5665;
+    margin-right: 30px;
+    font-size: 1.2vw;
+  }
+.link:nth-child(3n) {
+    margin-right: 0;
+}
+.activeLink {
+    composes: link;
+    color: #e84a5f;
+}
+.div {
+    display: flex;
+    align-items: center;
+}
+.popupList {
+    width: 250px;
+}
+.popupItem {
+    color: #4F5665;
+    font-size: 12px;
+}

@@ -1,0 +1,13 @@
+.mainDiv {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+}
+.layout {
+  padding: 10px 200px;
+  background-color: #000;
+  width: 100vw;
+}
+.content {
+  font-family: 'Rubik', sans-serif;
+}

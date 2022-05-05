@@ -1,0 +1,44 @@
+.item {
+    display: flex;
+    width: 50%;
+    margin-right: 10px;
+}
+.item:nth-child(2n) {
+    margin-right: 0;
+}
+.innerDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 60%;
+    padding: 0 15px;
+}
+.innerDiv .title {
+    font-size: 19px;
+    transition: color linear 250ms;
+}
+.innerDiv .title:hover,
+.innerDiv .title:focus {
+    color: #1FB765;
+}
+
+.btn {
+    margin: 30px 0;
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #147E45;
+    border-radius: 10px;
+    background-color: #fff;
+    color: #147E45;
+    transition: background-color linear 250ms, color linear 250ms, border linear 250ms;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: #1FB765;
+    color: #fff;
+    border: 1px solid #1FB765;
+}

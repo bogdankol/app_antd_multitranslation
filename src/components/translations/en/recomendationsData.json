@@ -1,0 +1,20 @@
+{
+    "drill" :{
+        "src": "/images/мотобур3.jpg",
+        "title": "Professional geological equipment",
+        "text": "Hand drill PMB-2b for taking geological, geophysical, geochemical and other samples",
+        "link": "/equipment/drill/1"
+    },
+    "tank" : {
+        "src": "/images/бак1.jpg",
+        "title": "Portable tank with hand pump",
+        "text": "10 liter water tank with hand pump.",
+        "link": "/equipment/tank/1"
+    },
+    "tube" : {
+        "src": "/images/truba1.jpg",
+        "title": "Threadless diamond tipped drill bit",
+        "text": "High-strength, non-magnetic stainless steel drill bit",
+        "link": "/equipment/tube/1"
+    }
+}

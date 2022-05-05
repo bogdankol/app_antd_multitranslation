@@ -1,0 +1,38 @@
+{
+    "drill": {
+        "1": {
+            "title": "Portable motor drill for taking oriented samples PMB-2b",
+            "paragraphOne": "(made in Russia)",
+            "paragraphTwo": "PMB-2b hand-held power drill is designed for taking geological, geophysical, geochemical and other samples, in particular for taking oriented paleomagnetic cores of standard diameter.",
+            "paragraphThree": "To ensure maximum reliability, the design of the motor drill PMB-2b uses direct transmission of torque to the drill bit, and its autonomy is ensured by a 50 cc two-stroke gasoline engine with omnidirectional fuel supply for drilling at any angle.",
+            "paragraphFour": "Motor drill PMB-2b provides a simple and reliable type of fastening of the drill bit with an open shank that allows you to change the drill without the use of additional tools.",
+            "features": [
+                "Petrol engine 50 cm3",
+                "Weight ~5 kg",
+                "Dimensions 28 × 44 × 34 cm.",
+                "Water cooling system."
+            ]
+        }
+    },
+    "tank": {
+        "1": {
+            "title": "Portable tank with hand pump",
+            "paragraphOne": "(For use with PMB-2b.)",
+            "paragraphTwo": "10 liter water tank with hand pump. Kit includes 3 meter hose with quick couplings. Tank has eyelets for attaching a shoulder strap.",
+            "features": ["Tank 10l"]
+        }
+    },
+    "tube": {
+        "1": {
+            "title": "Threadless diamond tipped drill bit",
+            "paragraphOne": "(For use with PMB-2b.)",
+            "paragraphTwo": "The drill bit is made of high-strength, non-magnetic stainless steel. The diamond-coated 12 mm wide cutting edge with diametric cutouts ensures high-quality and smooth drilling",
+            "paragraphThree": "The drill bit is designed for wet drilling. The diameter of the resulting core corresponds to the standard diameter of the paleomagnetic sample and typical orienting devices.",
+            "features": [
+                "Inner diameter - 2.5 cm",
+                "Outer diameter - 2.9 cm",
+                "Length - 23 cm"
+            ]
+        }
+    }
+}

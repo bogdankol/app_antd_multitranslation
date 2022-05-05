@@ -1,0 +1,16 @@
+.div {
+    padding: 30px 0 0 0;
+    font-family: 'Rubik', sans-serif;
+}
+.svgCol {
+    padding-top: 10px;
+}
+.svg {
+    fill: green;
+}
+@media (min-width: 1600px) {
+    .svg {
+        transform: scale(1.5);
+    }
+
+}
