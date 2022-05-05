@@ -1,0 +1,46 @@
+{
+    "navigation": {
+        "firstLink": "Main page",
+        "secondLink": "Equipment",
+        "thirdLink": "About"
+    },
+    "footer": {
+        "contacts": "Contacts"
+    },
+    "licenseLink": "Privacy policy",
+    "licenseTranslations": {
+        "firstPar": "HERE SHOULD BE A TRANSLATIONS OF PRIVACY POLICY AGREEMENT"
+    },
+    "aboutUs": {
+        "title": "About us",
+        "firstParagraph": "Scientific Equipment is a small research and production company specializing in the development, production and implementation of high-precision equipment and related products. Our developments are used in leading institutes of the country.",
+        "secondParagraph": "The team is made up of specialists and developers with experience in science, engineering and innovation."
+    },
+    "gotQuestions": {
+        "title": "Got any questions?",
+        "text": "Order a call back, the manager will contact you and explain everything",
+        "btnText": "Leave an application"
+    },
+    "equipment": {
+        "titleOne": "Professional geological equipment",
+        "descOne": "PMB-2b manual motor drill for geological, geophysical, geochemical and other sampling",
+        "titleTwo": "Portable tank with hand pump",
+        "descTwo": "10 liter water tank with hand pump.",
+        "titleThree": "Threadless Diamond Tip Bit",
+        "descThree": "High-strength, non-magnetic stainless steel drill bit",
+        "linkOne": "/equipment/drill/1",
+        "linkTwo": "/equipment/tank/1",
+        "linkThree": "/equipment/tube/1"
+    },
+    "buyBtn": "Buy",
+    "leaveAnApp" : {
+        "nameInputLabel": "Enter a name",
+        "telInputLabel": "Your phone number",
+        "commentInputLabel": "Leave a comment"
+    },
+    "whatWeDo": {
+        "title" : "What do we do?",
+        "text": "Scientific Equipment is engaged in the development, design and creation of mechanisms for various purposes. Our main areas of activity are the development of high-temperature and vacuum equipment, as well as mechanized systems with high requirements for manufacturing accuracy.",
+        "btnText": "Learn more"
+    }
+}

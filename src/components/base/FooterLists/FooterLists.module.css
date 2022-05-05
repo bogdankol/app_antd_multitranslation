@@ -1,0 +1,35 @@
+.div {
+    display: flex;
+    justify-content: space-between;
+}
+.link {
+    display: inline-block;
+    padding: 10px 0 0 0;
+    font-weight: 700;
+    color: #0b132a;
+    font-weight: bold;
+    width: 200px;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+    margin-right: 55px;
+    width: 250px;
+}
+.list:nth-child(2) {
+    margin-right: 0;
+}
+.list .item {
+    color: #4F5665;
+    width: 200px;
+    padding: 10px 0 0 0;
+    border-bottom: none;
+    margin-right: 0;
+}
+a {
+    color: inherit;
+}
+.item:nth-child(1) {
+    color:#147E45;
+}
+

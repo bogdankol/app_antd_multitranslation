@@ -1,0 +1,20 @@
+.row {
+    display: flex;
+    justify-content: space-between;
+    height: 40vh;
+}
+.about {
+
+}
+
+.row .paragraph {
+    font-size: 1.25vw;
+    color: #4F5665;
+    margin-bottom: 5px;
+    line-height: 1.4;
+}
+.row .title {
+    font-size: 2vw;
+    color: #0B132A;
+    margin-bottom: 20;
+}
